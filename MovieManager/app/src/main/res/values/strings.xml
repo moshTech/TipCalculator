@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_now_playing">Now Playing</string>
+    <string name="nav_upcoming">Upcoming</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_now_playing_fragment">Hello Now playing fragment</string>
+    <string name="hello_upcoming_fragment">Hello Upcoming fragment</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="text_view_title">Captain America</string>
+    <string name="captain_america_overvew">Captain America Overvew</string>
+</resources>
